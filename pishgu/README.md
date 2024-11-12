@@ -16,7 +16,7 @@ You can download the preprocessed data from this [link](https://drive.google.com
 
 ## Installation 
 ```bash
-git clone https://github.com/TeCSAR-UNCC/Pishgu.git
+git clone https://github.com/Abi2174/CS637_Course_Project.git
 cd Pishgu
 pip install -r requirments.txt
 ```
